@@ -3,7 +3,7 @@ Flappy Bird VHDL game for Xilinx Spartan 6
 
 HEIA-FR / Filière Télécommunications / Systèmes Numériques 2
 
-**Etudiants**
+**Students**
 - Gilles Waeber
 - Cyril Vallélian
 
